@@ -18,7 +18,7 @@ export default function ColorPicker() {
     <div>
       <h2>Bài 2: Color Picker</h2>
       <button onClick={() => setColor('red')}>Đỏ</button>
-      <button onClick={() => setColor('blue')}>Xanh</button>
+      <button onClick={() => setColor('green')}>Xanh</button> {/* ✅ đã đổi sang xanh lá */}
       <button onClick={() => setColor('yellow')}>Vàng</button>
       <ColorBox color={color} />
     </div>
