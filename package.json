@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "th01_b24dccc077",
+=======
+  "name": "my-app",
+>>>>>>> ba57b3089b90d6fb91a6ab423038ec5c6f4555d8
   "version": "0.1.0",
   "private": true,
   "dependencies": {
